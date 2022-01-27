@@ -88,6 +88,7 @@ a {
   flex-flow: column wrap;
   align-items: center;
   text-align: center;
+  height: 500px;
 }
 
 .header-middle1 {
