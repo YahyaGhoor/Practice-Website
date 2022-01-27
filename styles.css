@@ -109,3 +109,28 @@ a {
   border-radius: 10px;
   margin: 10px;
 }
+
+.middle2 {
+  font-family: Roboto, sans-serif;  
+  background-color: #E5E7EB;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote {
+  font-size: 36px;
+  font-style: italic;
+  color: #39424e;
+  width: 825px;
+}
+
+.author {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: -10px;
+  width: 650px;
+  align-self: flex-end;
+}
