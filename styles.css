@@ -135,3 +135,45 @@ a {
   width: 650px;
   align-self: flex-end;
 }
+
+.middle3 {
+  font-family: Roboto, sans-serif;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.middle3-left, .middle3-right {
+  background-color: #3882F6;
+  padding: 45px 130px;
+  border-radius: 8px;
+}
+
+.middle3-left {
+
+}
+
+.header-middle3 {
+  font-weight: bold;
+  font-size: 20px;
+  color: #F9FAF8;
+}
+
+.middle3-subtext {
+  color: #E5E7EB;
+}
+
+.middle3-right {
+  margin-left: -50px;
+}
+
+.sign-up-2 {
+  font-size: 18px;
+  font-weight: bold;  
+  color: #F9FAF8;  
+  background-color: #3882F6;
+  padding: 8px 32px;
+  border: 3px solid #F9FAF8;
+  border-radius: 8px;
+}
